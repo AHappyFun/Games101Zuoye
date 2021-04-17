@@ -33,6 +33,6 @@ move * rotate * P
   
 2.光栅化三角形
 
-![Image text](https://github.com/AHappyFun/Games101Zuoye/blob/main/pa2/show/res.png
+![Image text](https://github.com/AHappyFun/Games101Zuoye/blob/main/pa2/show/res.png)
 
 
